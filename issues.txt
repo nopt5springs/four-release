@@ -2,3 +2,4 @@
 Note dataset sources
 Record stock counts
 List UI components
+Fix minor issues in workflow
